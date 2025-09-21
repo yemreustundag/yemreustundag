@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am Yusuf Emre Üstündağ. A freshman at CS department of "Bilkent University" in Turkey.
 
 <!--
 **yemreustundag/yemreustundag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
